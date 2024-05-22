@@ -65,6 +65,8 @@ Weitere Informationen und eine Übersicht der verfügbaren Themes findest du [hi
 https://lerneprogrammieren.de/git/
 
 
+Fertig abgeschlossen
+
 
 ## SSH-Key erstellen und in Deinem Github-Account hinterlegen
 
