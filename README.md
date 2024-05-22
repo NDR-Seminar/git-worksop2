@@ -38,15 +38,17 @@ Für Windows gibt es eine ähnliche Möglichkeit wie Oh My Zsh, die speziell fü
 1.  Installiere PowerShell (falls noch nicht vorhanden).
 2.  Installiere Oh My Posh via PowerShellGet:
 
-```
+```powershell
 Install-Module oh-my-posh -Scope CurrentUser
 ```
 
 Konfiguriere das Theme:
 
-```
+```powershell
 Set-PoshPrompt -Theme Paradox
 ```
+
+Nicht mehr unterstützt
 
 #### Vorteile:
 
