@@ -9,6 +9,10 @@ Git for Humans (20 Minuten) https://www.youtube.com/watch?v=eWxxfttcMts
 
 Git-Quiz: https://www.w3schools.com/quiztest/quiztest.asp?qtest=GIT
 
+```
+3 Fehler
+```
+
 ### Die 5 Vorteile von Git
 
 1. Tell the story of your project
