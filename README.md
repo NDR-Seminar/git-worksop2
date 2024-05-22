@@ -11,9 +11,9 @@ Git-Quiz: https://www.w3schools.com/quiztest/quiztest.asp?qtest=GIT
 
 ### Die 5 Vorteile von Git
 
-1.
+1. Dateien gehen nicht verloren
 
-2.
+2. Man muss seine Dateien nicht umbenennen
 
 3.
 
