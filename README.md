@@ -83,7 +83,9 @@ https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html
 
 Aufgaben
 
-1.   Hinterlege bei Github Deinen SSH-Key
+1.   Hinterlege bei Github Deinen SSH-Key 
+
+Erstellt
 
 2.   Lass Dir anzeigen, welche remote origins Dein Repo hat: 
 
